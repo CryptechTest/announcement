@@ -24,4 +24,4 @@ Thank you for your continued support!
 ---
 
 *Best regards,*  
-*The Cryptech Team*
+*The CryptechTest Team*
