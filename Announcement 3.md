@@ -1,4 +1,4 @@
-![Banner](https://github.com/CryptechTest/announcement/blob/main/images/header.png)
+![Banner](https://github.com/CryptechTest/announcement/raw/main/images/header.png)
 
 # Important Announcement no.3
 
