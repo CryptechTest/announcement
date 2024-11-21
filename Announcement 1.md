@@ -1,5 +1,7 @@
 # Important Announcement no.1
 
+![Banner](https://github.com/CryptechTest/announcement/raw/main/images/header.png)
+
 **Date:** September 14, 2024
 
 We are excited to announce a major update to our platform! This update brings several new features and improvements designed to enhance your experience.
