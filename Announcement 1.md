@@ -1,6 +1,6 @@
 # Important Announcement no.1
 
-![Banner](https://github.com/CryptechTest/announcement/raw/main/images/header.png)
+![Banner](https://raw.githubusercontent.com/CryptechTest/announcement/refs/heads/main/images/small_battle_model_1024.webp)
 
 **Date:** September 14, 2024
 
